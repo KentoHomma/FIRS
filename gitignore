@@ -1,0 +1,8 @@
+# Java
+/.metadata/
+*.classpath
+*.settings
+*.recommenders/
+Java/Servers/
+*.DS_Store
+*/bin/
